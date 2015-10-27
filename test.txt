@@ -5,8 +5,4 @@ gogo
 hello world
 hello 
 Git is a version control
-<<<<<<< HEAD
-Git is new free software
-=======
 Git is new free and software
->>>>>>> feature1
